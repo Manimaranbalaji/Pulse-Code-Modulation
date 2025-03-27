@@ -1,6 +1,6 @@
 # Pulse-Code-Modulation
 ## Aim:
-To generate a Pulse Amplitude Modulated (PAM) signal by modulating a message signal with a pulse train and reconstruct the original signal.
+To generate a Pulse Code Modulation signal by modulating a message signal with a pulse train and reconstruct the original signal.
 ## Tools required:
 + Personal Computer with Scilab
 + Python IDE (Numpy)
@@ -75,4 +75,4 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/99de2347-cbc5-4028-927e-7991b9734424)
 
 ## Results:
-Pulse Amplitude Modulation (PAM) was successfully performed using a pulse train. The modulated signal preserved the amplitude variations of the message signal. Reconstruction demonstrated accurate signal recovery, confirming PAM's role in communication
+Pulse Code Modudlation was successfully performed using a pulse train. The modulated signal preserved the amplitude variations of the message signal. Reconstruction demonstrated accurate signal recovery, confirming PCM's role in communication
