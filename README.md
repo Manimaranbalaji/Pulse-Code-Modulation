@@ -2,7 +2,6 @@
 ## Aim:
 To generate a Pulse Code Modulation signal by modulating a message signal with a pulse train and reconstruct the original signal.
 ## Tools required:
-+ Personal Computer with Scilab
 + Python IDE (Numpy)
 ## Program:
 ~~~
